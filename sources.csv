@@ -1,12 +1,26 @@
 id,scheme,type,url,status
-1,HDFC Flexi Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-equity-fund-direct-plan-growth,verified
-2,HDFC ELSS Tax Saver,scheme_page,https://groww.in/mutual-funds/hdfc-taxsaver-direct-plan-growth,verified
-3,HDFC Large Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-top-200-fund-direct-growth,verified
-4,HDFC Mid Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-plan,verified
-5,All,statements,https://www.camsonline.com/Investors/Statements/Consolidated-Account-Statement,verified
-6,All,capital_gains,https://www.camsonline.com/Investors/Statements/Capital-Gain-Statement,verified
-7,All,riskometer,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html,verified
-8,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf,verified
-9,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf,verified
-10,All,education,https://investor.sebi.gov.in/,verified
-11,All,education,https://www.amfiindia.com/investor/knowledge-center-info,verified
+1,All,education,https://en.wikipedia.org/wiki/Mutual_fund,verified
+2,All,education,https://en.wikipedia.org/wiki/Mutual_funds_in_India,verified
+3,All,riskometer,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html,verified
+4,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf,verified
+5,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf,verified
+6,All,education,https://investor.sebi.gov.in/,verified
+7,HDFC Flexi Cap Fund,scheme_page,https://en.wikipedia.org/wiki/HDFC_Mutual_Fund,verified
+8,All,statements,https://en.wikipedia.org/wiki/Capital_gains_tax_in_India,verified
+9,All,education,https://en.wikipedia.org/wiki/Systematic_Investment_Plan,verified
+10,All,education,https://en.wikipedia.org/wiki/Exchange-traded_fund,verified
+11,All,education,https://en.wikipedia.org/wiki/Index_fund,verified
+12,All,education,https://en.wikipedia.org/wiki/Asset_management_company,verified
+13,All,education,https://en.wikipedia.org/wiki/Net_asset_value,verified
+14,All,education,https://en.wikipedia.org/wiki/Expense_ratio,verified
+15,All,education,https://en.wikipedia.org/wiki/Equity_Linked_Savings_Scheme,verified
+16,All,education,https://en.wikipedia.org/wiki/Bond_(finance),verified
+17,All,education,https://en.wikipedia.org/wiki/Stock_market,verified
+18,All,education,https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India,verified
+19,All,education,https://en.wikipedia.org/wiki/Association_of_Mutual_Funds_in_India,verified
+20,All,education,https://en.wikipedia.org/wiki/Compound_interest,verified
+21,All,education,https://en.wikipedia.org/wiki/Portfolio_(finance),verified
+22,All,education,https://en.wikipedia.org/wiki/Asset_allocation,verified
+23,All,education,https://en.wikipedia.org/wiki/Diversification_(finance),verified
+24,All,education,https://en.wikipedia.org/wiki/Investment_strategy,verified
+25,All,education,https://en.wikipedia.org/wiki/Value_investing,verified
