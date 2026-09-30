@@ -1,21 +1,12 @@
 id,scheme,type,url,status
-1,HDFC Flexi Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/regular,verified
-2,HDFC Flexi Cap Fund,scheme_page,https://www.hdfcfund.com/product-solutions/overview/hdfc-flexi-cap-fund/direct,verified
-3,HDFC Flexi Cap Fund,scheme_page,https://www.hdfcfund.com/our-products/hdfc-flexi-cap-fund,verified
-4,HDFC ELSS Tax Saver,scheme_page,https://www.hdfcfund.com/product-solutions/overview/hdfc-elss-tax-saver/direct,verified
-5,HDFC ELSS Tax Saver,scheme_page,https://hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/direct,verified
-6,HDFC ELSS Tax Saver,factsheet,https://files.hdfcfund.com/s3fs-public/Others/2026-05/Fund%20Facts%20-%20HDFC%20TaxSaver%20Fund_April%2026.pdf,verified
-7,HDFC ELSS Tax Saver,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver/regular,pattern-derived
-8,HDFC Large Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/regular,pattern-derived
-9,HDFC Large Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct,pattern-derived
-10,HDFC Mid Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/regular,pattern-derived
-11,HDFC Mid Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-mid-cap-fund/direct,pattern-derived
-12,HDFC Flexi Cap Fund,scheme_page,https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct,pattern-derived
-13,All,statements,https://www.hdfcfund.com/account-statement,verified
-14,All,statements,https://hdfcfund.com/services/consolidated-account-statement,verified
-15,All,capital_gains,https://www.hdfcfund.com/learners-corner/beginner/how-get-capital-gain-statement-mutual-fund-schemes-india,verified
-16,All,riskometer,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html,verified
-17,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf,verified
-18,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf,verified
-19,All,education,https://investor.sebi.gov.in/,pattern-derived
-20,All,education,https://www.amfiindia.com/investor-corner/knowledge-center,pattern-derived
+1,HDFC Flexi Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-equity-fund-direct-plan-growth,verified
+2,HDFC ELSS Tax Saver,scheme_page,https://groww.in/mutual-funds/hdfc-taxsaver-direct-plan-growth,verified
+3,HDFC Large Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-top-200-fund-direct-growth,verified
+4,HDFC Mid Cap Fund,scheme_page,https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-plan,verified
+5,All,statements,https://www.camsonline.com/Investors/Statements/Consolidated-Account-Statement,verified
+6,All,capital_gains,https://www.camsonline.com/Investors/Statements/Capital-Gain-Statement,verified
+7,All,riskometer,https://www.sebi.gov.in/legal/circulars/oct-2020/circular-on-product-labeling-in-mutual-fund-schemes-risk-o-meter_47796.html,verified
+8,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/oct-2020/1602580413614.pdf,verified
+9,All,riskometer,https://www.sebi.gov.in/sebi_data/attachdocs/1430388883147.pdf,verified
+10,All,education,https://investor.sebi.gov.in/,verified
+11,All,education,https://www.amfiindia.com/investor/knowledge-center-info,verified
