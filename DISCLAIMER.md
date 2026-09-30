@@ -1,0 +1,1 @@
+**Facts-only. No investment advice.** This assistant answers factual questions about selected HDFC Mutual Fund schemes using official AMC, SEBI and AMFI pages. It does not recommend, compare or predict. Mutual fund investments are subject to market risks; read all scheme-related documents carefully. Do not enter PAN, Aadhaar, account numbers, OTPs, emails or phone numbers.
